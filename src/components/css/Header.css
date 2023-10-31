@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Oswald&display=swap');
+
+.contatos {
+  background-color: rgb(0, 55, 103) !important;
+  height: 20px;
+}
+
+.nomes {
+  color: rgb(235, 229, 229) !important;
+}
+
+img {
+  height: 80px;
+}
+
+.nav {
+  font-family: 'Oswald', sans-serif;
+  display: flex;
+  justify-content: flex-end;
+}

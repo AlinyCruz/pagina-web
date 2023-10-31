@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Oswald&display=swap');
+
+footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  list-style: none;
+  background-color: black;
+  width: 100%;
+  padding: 10px 0;
+  font-family: 'Oswald', sans-serif;
+}
+
+#menu-footer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 10px;
+  margin-top: auto;
+}
+
+#menu-footer a {
+  text-decoration: none;
+  color: rgba(185, 185, 185, 0.874);
+}
+
+#menu-footer :hover {
+  font-size: 15px;
+}
+
+#criador, #criador a {
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  color: rgba(185, 185, 185, 0.874);
+}
+
+#criador {
+  font-size: 12px;
+}
+
+#criador a:hover {
+  text-decoration: underline;
+}
