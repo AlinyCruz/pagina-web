@@ -23,9 +23,9 @@ Instale as dependências e inicialize o projeto. Para isso, use o seguinte coman
 npm install
 ```
 
-## Vizualizando o projeto
+## Visualizando o projeto
 
-Para vizualizar o projeto, digite em seu terminal o a linha abaixo:
+Para visualizar o projeto, digite em seu terminal o a linha abaixo:
 
 ```
 npm run start
