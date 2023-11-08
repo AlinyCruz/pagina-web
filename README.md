@@ -4,7 +4,7 @@
 
 <br/>
 
-> Neste projeto, foi desenvolvido uma página de modelo para uma micro empresa de tecnologia. Foram ultilizados o framework JavaScript React e Bootstrap React.
+> Neste projeto, foi desenvolvido uma página de modelo para uma micro empresa de tecnologia. Foram utilizados a linguagem JavaScript, biblioteca React  e Bootstrap React.
 
 
 ## 🚀 Instalação
